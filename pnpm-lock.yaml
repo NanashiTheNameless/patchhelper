@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       diff:
-        specifier: ^5.1.0
-        version: 5.1.0
+        specifier: ^8.0.3
+        version: 8.0.3
       next:
         specifier: 14.2.35
         version: 14.2.35(react-dom@18.0.0(react@18.0.0))(react@18.0.0)
@@ -451,8 +451,8 @@ packages:
   didyoumean@1.2.2:
     resolution: {integrity: sha512-gxtyfqMg7GKyhQmb056K7M3xszy/myH8w+B4RT+QXBQsvAOdc3XymqDDPHx1BgPgsdAA5SIifona89YtRATDzw==}
 
-  diff@5.1.0:
-    resolution: {integrity: sha512-D+mk+qE8VC/PAUrlAU34N+VfXev0ghe5ywmpqrawphmVZc1bEfn56uo9qpyGp1p4xpzOHkSW4ztBd6L7Xx4ACw==}
+  diff@8.0.3:
+    resolution: {integrity: sha512-qejHi7bcSD4hQAZE0tNAawRK1ZtafHDmMTMkrrIGgSLl7hTnQHmKCeB45xAcbfTqK2zowkM3j3bHt/4b/ARbYQ==}
     engines: {node: '>=0.3.1'}
 
   dir-glob@3.0.1:
@@ -1811,7 +1811,7 @@ snapshots:
 
   didyoumean@1.2.2: {}
 
-  diff@5.1.0: {}
+  diff@8.0.3: {}
 
   dir-glob@3.0.1:
     dependencies:
